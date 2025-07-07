@@ -31,14 +31,14 @@ const Contact = () => {
     {
       icon: <Mail className="h-6 w-6" />,
       title: 'Email Us',
-      content: 'hello@techcorp.in',
+      content: 'chaitanya123@gmail.in',
       description: 'Send us an email anytime',
       color: 'from-blue-400 to-blue-600'
     },
     {
       icon: <Phone className="h-6 w-6" />,
       title: 'Call Us',
-      content: '+91 98765 43210',
+      content: '+91 6301265729',
       description: 'Mon-Fri from 9am to 6pm IST',
       color: 'from-green-400 to-green-600'
     },
