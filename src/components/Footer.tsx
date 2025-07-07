@@ -97,15 +97,15 @@ const Footer = () => {
               <div className="space-y-2">
                 <div className="flex items-center text-gray-300">
                   <Mail className="h-4 w-4 mr-3 text-emerald-400" />
-                  <span>hello@neighbourfit.in</span>
+                  <span>chaitu@neighbourfit.in</span>
                 </div>
                 <div className="flex items-center text-gray-300">
                   <Phone className="h-4 w-4 mr-3 text-emerald-400" />
-                  <span>+91 98765 43210</span>
+                  <span>+91 6301265729</span>
                 </div>
                 <div className="flex items-center text-gray-300">
                   <MapPin className="h-4 w-4 mr-3 text-emerald-400" />
-                  <span>Bandra Kurla Complex, Mumbai, Maharashtra 400051</span>
+                  <span>Jalandhar,Lovely Professional University 144411</span>
                 </div>
               </div>
             </motion.div>
@@ -271,7 +271,7 @@ const Footer = () => {
           viewport={{ once: true }}
         >
           <p className="text-gray-400 text-sm">
-            © 2024 NeighbourFit India. All rights reserved to Chaitanya (chaitanya123@gmail.com) | Building Healthier Communities 🇮🇳
+            © 2025 NeighbourFit India. All rights reserved to Chaitanya (chaitanya123@gmail.com) | Building Healthier Communities 🇮🇳
           </p>
           
           <div className="flex space-x-4 mt-4 sm:mt-0">
