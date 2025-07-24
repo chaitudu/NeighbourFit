@@ -271,7 +271,7 @@ const Footer = () => {
           viewport={{ once: true }}
         >
           <p className="text-gray-400 text-sm">
-            © 2024 NeighbourFit India. All rights reserved to Chaitanya (chaitanya123@gmail.com) | Building Healthier Communities 🇮🇳
+            © 2025 NeighbourFit India. All rights reserved to Chaitanya (chaitanya123@gmail.com) | Building Healthier Communities 🇮🇳
           </p>
           
           <div className="flex space-x-4 mt-4 sm:mt-0">
